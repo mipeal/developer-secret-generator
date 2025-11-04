@@ -1,0 +1,54 @@
+# Robots.txt for Developer Secret Generator
+# Optimized for search engines and AI bots
+
+User-agent: *
+Allow: /
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+# AI and LLM specific user agents
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: AnthropicBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Disallow sensitive paths
+Disallow: /assets/
+Disallow: /_next/
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://mipeal.github.io/developer-secret-generator/sitemap.xml
+
+# Crawl delay (optional, 1 second)
+Crawl-delay: 1
