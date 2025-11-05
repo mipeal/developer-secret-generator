@@ -65,7 +65,7 @@ A world-class tool for generating secure secrets and tokens for modern web devel
 
 ## 🚀 Live Demo
 
-**GitHub Pages:** https://mipeal.github.io/developer-secret-generator/
+**GitHub Pages:** https://mipeal.github.io/secret-generator/
 
 ## 📱 Browser Support
 
@@ -84,7 +84,7 @@ A world-class tool for generating secure secrets and tokens for modern web devel
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/mipeal/developer-secret-generator.git
+git clone https://github.com/mipeal/secret-generator.git
 
 # Navigate to project
 cd developer-secret-generator
