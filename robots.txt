@@ -48,7 +48,7 @@ Disallow: /_next/
 Disallow: /api/
 
 # Sitemap location
-Sitemap: https://mipeal.github.io/developer-secret-generator/sitemap.xml
+Sitemap: https://mipeal.github.io/secret-generator/sitemap.xml
 
 # Crawl delay (optional, 1 second)
 Crawl-delay: 1
