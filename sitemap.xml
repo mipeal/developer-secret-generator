@@ -6,7 +6,7 @@
     
     <!-- Main page -->
     <url>
-        <loc>https://mipeal.github.io/developer-secret-generator/</loc>
+        <loc>https://mipeal.github.io/secret-generator/</loc>
         <lastmod>2025-11-05</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -14,7 +14,7 @@
     
     <!-- Alternative content pages (if needed) -->
     <url>
-        <loc>https://mipeal.github.io/developer-secret-generator/index.html</loc>
+        <loc>https://mipeal.github.io/secret-generator/index.html</loc>
         <lastmod>2025-11-05</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -22,7 +22,7 @@
     
     <!-- GitHub repository link -->
     <url>
-        <loc>https://github.com/mipeal/developer-secret-generator</loc>
+        <loc>https://github.com/mipeal/secret-generator</loc>
         <lastmod>2025-11-05</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
